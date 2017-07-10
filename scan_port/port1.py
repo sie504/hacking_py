@@ -30,10 +30,11 @@ if __name__ == '__main__':
     scanport()
 
 
+"""
+Please input your target:192.168.86.194
+ip: 192.168.86.194
+this port:80 is on
+this port:3306 is on
+This scan spent 9.01316308975
 
-
-
-
-
-
-
+"""
