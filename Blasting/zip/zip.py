@@ -22,5 +22,6 @@ if __name__ == '__main__':
     main()
 
 '''
+python zip.py
 password found : 123456
 '''
