@@ -24,4 +24,3 @@ for port in range(start_port,end_port+1):
 print("opened ports:")
 for i in opened_ports:
     print i
-i
